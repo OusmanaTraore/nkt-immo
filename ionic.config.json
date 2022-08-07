@@ -1,0 +1,8 @@
+{
+  "name": "nkt-immo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "5a7dda15"
+}
